@@ -1,0 +1,16 @@
+========================================
+          STORE PURCHASE SYSTEM         
+========================================
+          CUSTOMER RECEIPT              
+----------------------------------------
+Customer Name       : Trishia
+Quantity            : 8 items
+Price per Item      : PHP 150.25
+Membership Status   : true
+----------------------------------------
+              ORDER SUMMARY             
+----------------------------------------
+Total Price         : PHP 1202.00
+Over PHP 500?       : true
+Items per Group of 2: 4
+Remaining Items     : 0
